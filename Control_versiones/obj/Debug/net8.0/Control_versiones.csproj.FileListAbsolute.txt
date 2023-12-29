@@ -1,0 +1,14 @@
+C:\Users\JohnA\source\repos\Control_versiones\Control_versiones\obj\Debug\net8.0\Control_versiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JohnA\source\repos\Control_versiones\Control_versiones\obj\Debug\net8.0\Control_versiones.AssemblyInfoInputs.cache
+C:\Users\JohnA\source\repos\Control_versiones\Control_versiones\obj\Debug\net8.0\Control_versiones.AssemblyInfo.cs
+C:\Users\JohnA\source\repos\Control_versiones\Control_versiones\obj\Debug\net8.0\Control_versiones.csproj.CoreCompileInputs.cache
+C:\Users\JohnA\source\repos\Control_versiones\Control_versiones\bin\Debug\net8.0\Control_versiones.exe
+C:\Users\JohnA\source\repos\Control_versiones\Control_versiones\bin\Debug\net8.0\Control_versiones.deps.json
+C:\Users\JohnA\source\repos\Control_versiones\Control_versiones\bin\Debug\net8.0\Control_versiones.runtimeconfig.json
+C:\Users\JohnA\source\repos\Control_versiones\Control_versiones\bin\Debug\net8.0\Control_versiones.dll
+C:\Users\JohnA\source\repos\Control_versiones\Control_versiones\bin\Debug\net8.0\Control_versiones.pdb
+C:\Users\JohnA\source\repos\Control_versiones\Control_versiones\obj\Debug\net8.0\Control_versiones.dll
+C:\Users\JohnA\source\repos\Control_versiones\Control_versiones\obj\Debug\net8.0\refint\Control_versiones.dll
+C:\Users\JohnA\source\repos\Control_versiones\Control_versiones\obj\Debug\net8.0\Control_versiones.pdb
+C:\Users\JohnA\source\repos\Control_versiones\Control_versiones\obj\Debug\net8.0\Control_versiones.genruntimeconfig.cache
+C:\Users\JohnA\source\repos\Control_versiones\Control_versiones\obj\Debug\net8.0\ref\Control_versiones.dll
